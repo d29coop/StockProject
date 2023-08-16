@@ -1,89 +1,89 @@
-category
-Commodity
-Commodity
-Equity
-Commodity
-Commodity
-Equity
-Commodity
-Commodity
-Commodity
-Commodity
-Equity
-Commodity
-Commodity
-Equity
-Real Estate
-Real Estate
-Commodity
-Real Estate
-Real Estate
-Commodity
-Commodity
-Commodity
-Commodity
-Real Estate
-Equity
-Equity
-Equity
-Equity
-Commodity
-Commodity
-Commodity
-Real Estate
-Commodity
-Commodity
-Equity
-Equity
-Equity
-Equity
-Equity
-Real Estate
-Equity
-Equity
-Equity
-Equity
-Real Estate
-Equity
-Commodity
-Real Estate
-Equity
-Commodity
-Real Estate
-Equity
-Equity
-Commodity
-Commodity
-Equity
-Equity
-Equity
-Equity
-Equity
-Commodity
-Commodity
-Equity
-Real Estate
-Equity
-Equity
-Equity
-Equity
-Equity
-Equity
-Equity
-Commodity
-Bonds
-Bonds
-Bonds
-Bonds
-Bonds
-Bonds
-Bonds
-Bonds
-Bonds
-Bonds
-Commodity
-Commodity
-Commodity
-Commodity
-Commodity
-Commodity
+symbol,category
+FTRI,Commodity
+IYM,Commodity
+PICK,Equity
+XLB,Commodity
+EBLU,Commodity
+PXJ,Equity
+VAW,Commodity
+FMAT,Commodity
+PIO,Commodity
+MXI,Commodity
+GOEX,Equity
+CGW,Commodity
+CUT,Commodity
+SGDJ,Equity
+RWX,Real Estate
+IFGL,Real Estate
+SLX,Commodity
+VNQI,Real Estate
+WPS,Real Estate
+GNR,Commodity
+GUNR,Commodity
+URNM,Commodity
+COPX,Commodity
+HAUZ,Real Estate
+SILJ,Equity
+VMOT,Equity
+GDXJ,Equity
+INCO,Equity
+HAP,Commodity
+VEGI,Commodity
+URA,Commodity
+REET,Real Estate
+FXZ,Commodity
+GRES,Commodity
+IXC,Equity
+PIN,Equity
+FILL,Equity
+OIH,Equity
+IXSE,Equity
+RWO,Real Estate
+INDA,Equity
+FLIN,Equity
+IEZ,Equity
+XES,Equity
+GQRE,Real Estate
+GOAU,Equity
+WOOD,Commodity
+BLDG,Real Estate
+INDY,Equity
+MOO,Commodity
+SRET,Real Estate
+RING,Equity
+GDX,Equity
+FTAG,Commodity
+PYZ,Commodity
+CNRG,Equity
+SLVP,Equity
+CVY,Equity
+NFTY,Equity
+SIL,Equity
+IGE,Commodity
+BATT,Commodity
+EPI,Equity
+SRVR,Real Estate
+SMIN,Equity
+PHDG,Equity
+GLIN,Equity
+XLE,Equity
+IYE,Equity
+VDE,Equity
+FENY,Equity
+PHO,Commodity
+VGOV,Bonds
+GIGB,Bonds
+AGBP,Bonds
+IGOV,Bonds
+BWX,Bonds
+FLIA,Bonds
+BWZ,Bonds
+ISHG,Bonds
+KBND,Bonds
+FAIL,Bonds
+PHAU,Commodity
+PHAG,Commodity
+BRND,Commodity
+CRUD,Commodity
+OILB,Commodity
+AIGI,Commodity
